@@ -1,3 +1,5 @@
+A tool for extracting original text from, and patching translated text into, a CatSystem2 script format (`.cst`)
+
 Remake from [VNTextPatch](https://github.com/arcusmaximus/VNTranslationTools) with custom fontsize
 
 # Usage:
